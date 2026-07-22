@@ -1,2 +1,2 @@
 Hello world
-Add conflict
+Resolved conflict by HoaLQ
