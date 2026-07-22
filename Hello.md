@@ -1,2 +1,2 @@
 Hello world
-Changed by HoaLQ14
+Resolved conflict by HoaLQ
